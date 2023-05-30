@@ -1,7 +1,7 @@
-public class BoletimEstudante {
-    public class BoletimEstudantil {
+public class BoletimEstudantil {
+    public class BoletimEstudante {
         
-        public static void main(String[] args) {
+        public static void main (String [] args) {
             int mediaFinal = 6;
             if(mediaFinal<6)	
                 System.out.println("REPROVADO"); 
